@@ -6,5 +6,3 @@ I have analyzed NBA basketball dataset. This analysis is based on the multivaria
 5.	Comparison of full and reduced model.
 6.	Fitting the Bayesian logistic regression model to the data.
 7.	Comparison of actual and predicted success probability values.
-![image](https://user-images.githubusercontent.com/50500456/202864189-052d5c88-1007-41b8-b4ed-5b7d8f3dd89e.png)
-
